@@ -12,17 +12,17 @@ data="""
     </tr>
     <tr>
         <td>10001</td>
-        <td>Bansil</td>
+        <td>ABC</td>
         <td>2000</td>
     </tr>
     <tr>
         <td>10002</td>
-        <td>Meet</td>
+        <td>XYZ</td>
         <td>4000</td>
     </tr>
     <tr>
         <td>10003</td>
-        <td>Pratik</td>
+        <td>PQR</td>
         <td>6000</td>
     </tr>
 </table>"""
